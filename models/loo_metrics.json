@@ -1,0 +1,66 @@
+{
+  "strict": {
+    "value": {
+      "correct": 7,
+      "total": 9,
+      "recall": 0.778
+    },
+    "start": {
+      "correct": 5,
+      "total": 9,
+      "recall": 0.556
+    },
+    "end": {
+      "correct": 0,
+      "total": 9,
+      "recall": 0.0
+    },
+    "notice": {
+      "correct": 5,
+      "total": 8,
+      "recall": 0.625
+    },
+    "party_one": {
+      "correct": 2,
+      "total": 9,
+      "recall": 0.222
+    },
+    "party_two": {
+      "correct": 3,
+      "total": 9,
+      "recall": 0.333
+    }
+  },
+  "lenient": {
+    "value": {
+      "correct": 7,
+      "total": 9,
+      "recall": 0.778
+    },
+    "start": {
+      "correct": 5,
+      "total": 9,
+      "recall": 0.556
+    },
+    "end": {
+      "correct": 0,
+      "total": 9,
+      "recall": 0.0
+    },
+    "notice": {
+      "correct": 5,
+      "total": 8,
+      "recall": 0.625
+    },
+    "party_one": {
+      "correct": 2,
+      "total": 9,
+      "recall": 0.222
+    },
+    "party_two": {
+      "correct": 3,
+      "total": 9,
+      "recall": 0.333
+    }
+  }
+}

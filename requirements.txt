@@ -1,0 +1,11 @@
+scikit-learn>=1.3
+pandas
+numpy
+scipy
+python-dateutil
+python-docx
+pytesseract
+Pillow
+flask
+joblib
+# system dependency: the Tesseract OCR binary  (Ubuntu: apt install tesseract-ocr | macOS: brew install tesseract)
